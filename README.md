@@ -5,3 +5,19 @@
 ![Gluten Status](https://img.shields.io/badge/Gluten-Free-green.svg)
 ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)<br>
 
+# CV SHOWCASE PROJECT
+### personal website 
+
+This project is for educational porpuses only. 
+Comments are welcome!
+
+Site published at https://vaidmine.github.io/2021_cv/
+
+Design: Kevin Powell]
+
+
+## Project features
+- responsive design
+- repetitive content is generated/rendered;
+- no AJAX(data sending);
+ 
