@@ -13,7 +13,7 @@ Comments are welcome!
 
 Site published at https://vaidmine.github.io/2021_cv/
 
-Design: Kevin Powell]
+Design: [Kevin Powell]
 
 
 ## Project features
