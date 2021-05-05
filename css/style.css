@@ -331,14 +331,13 @@ header {
     opacity: 0.25;
 }
 
-.services,
-.services2 {
+.services {
     margin-bottom: 4em;
 }
 
-.service,
-.service2 {
-    max-width: 500px;
+.service {
+    /* max-width: 500px; */
+    width: 500px;
     margin: 0 auto;
 }
 
